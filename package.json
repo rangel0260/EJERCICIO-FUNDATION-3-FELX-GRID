@@ -1,0 +1,15 @@
+{
+    "name": "EJERCICIO_FUNDATION_3_FELX_GRID",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Rangel",
+    "contributors": [
+    ],
+    "dependencies": {}
+}

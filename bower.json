@@ -1,0 +1,13 @@
+{
+    "name": "EJERCICIO_FUNDATION_3_FELX_GRID",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
